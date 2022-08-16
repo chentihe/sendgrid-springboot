@@ -9,5 +9,7 @@
 
 ## Spring Boot
 Create a Spring Boot project via [Spring Initializr](https://start.spring.io/)
+add Spring Web & Spring Boot DevTools dependencies
+add SendGrid dependency via maven repository
 - setup YAML config file
 - create YAML Config Bean
