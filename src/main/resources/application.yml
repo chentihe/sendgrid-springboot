@@ -1,4 +1,4 @@
 sendgrid:
-  from: ${your sender email address}
-  apikey: ${your send grid api key}
-  templateId: ${your template id}
+  from: ${SENDER_EMAIL}
+  apikey: ${SENDGRID_APIKEY}
+  templateId: ${SENDGRID_TEMPLATE_ID}
